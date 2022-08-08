@@ -35,7 +35,6 @@ jupyter-core==4.8.1
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.2
 kiwisolver==1.4.2
-libxml2-python==2.9.12
 lxml==4.9.1
 MarkupSafe==2.0.1
 matplotlib==3.5.1
@@ -51,7 +50,6 @@ packaging==21.0
 pandas==1.4.2
 pandocfilters==1.5.0
 parso==0.8.2
-pdftotext==2.1.5
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==9.1.0
