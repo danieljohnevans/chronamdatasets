@@ -132,3 +132,5 @@ venv/
 *.db
 *.sqlite
 *.csv
+errors.txt
+log_errors.txt
