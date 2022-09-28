@@ -134,3 +134,4 @@ venv/
 *.csv
 errors.txt
 log_errors.txt
+.DS_Store
