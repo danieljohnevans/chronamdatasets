@@ -131,7 +131,7 @@ dmypy.json
 venv/
 *.db
 *.sqlite
-*.csv
 errors.txt
 log_errors.txt
 .DS_Store
+chronam_comparison.ipynb
